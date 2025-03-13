@@ -1,0 +1,145 @@
+{
+  "subject": "Історія України",
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Стародавня історія України",
+      "question": "Яка археологічна культура відома своїми розписними глиняними виробами та існувала на території України в IV – середині III тисячоліття до н.е.?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "Трипільська культура", "image": null},
+        {"id": "b", "text": "Середньостогівська культура", "image": null},
+        {"id": "c", "text": "Черняхівська культура", "image": null},
+        {"id": "d", "text": "Культура кулястих амфор", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 2,
+      "topic": "Стародавня історія України",
+      "question": "У якому столітті до н.е. на території України відбулася Велика грецька колонізація?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "VIII – VI ст. до н.е.", "image": null},
+        {"id": "b", "text": "VII – V ст. до н.е.", "image": null},
+        {"id": "c", "text": "VI – IV ст. до н.е.", "image": null},
+        {"id": "d", "text": "V – III ст. до н.е.", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 3,
+      "topic": "Стародавня історія України",
+      "question": "Яке плем'я, за свідченнями Геродота, проживало на території сучасної України в VII – III ст. до н.е.?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "Скіфи", "image": null},
+        {"id": "b", "text": "Сармати", "image": null},
+        {"id": "c", "text": "Готи", "image": null},
+        {"id": "d", "text": "Кіммерійці", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 4,
+      "topic": "Стародавня історія України",
+      "question": "Яке місто-держава було засноване греками на території сучасного Криму в VI ст. до н.е.?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "Херсонес", "image": null},
+        {"id": "b", "text": "Ольвія", "image": null},
+        {"id": "c", "text": "Пантікапей", "image": null},
+        {"id": "d", "text": "Тіра", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 5,
+      "topic": "Стародавня історія України",
+      "question": "Який народ вважається першим відомим населенням території України, згідно з писемними джерелами?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "Кіммерійці", "image": null},
+        {"id": "b", "text": "Скіфи", "image": null},
+        {"id": "c", "text": "Сармати", "image": null},
+        {"id": "d", "text": "Готи", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 6,
+      "topic": "Стародавня історія України",
+      "question": "Який період історії називають епохою бронзи на території України?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "ІІІ – початок І тис. до н.е.", "image": null},
+        {"id": "b", "text": "IV – середина III тис. до н.е.", "image": null},
+        {"id": "c", "text": "VII – III ст. до н.е.", "image": null},
+        {"id": "d", "text": "VIII – VI ст. до н.е.", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 7,
+      "topic": "Стародавня історія України",
+      "question": "Який археологічний період характеризується появою перших металевих виробів на території України?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "Енеоліт", "image": null},
+        {"id": "b", "text": "Палеоліт", "image": null},
+        {"id": "c", "text": "Мезоліт", "image": null},
+        {"id": "d", "text": "Неоліт", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 8,
+      "topic": "Стародавня історія України",
+      "question": "Яке з наведених міст було столицею Боспорського царства?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "Пантікапей", "image": null},
+        {"id": "b", "text": "Херсонес", "image": null},
+        {"id": "c", "text": "Ольвія", "image": null},
+        {"id": "d", "text": "Тіра", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 9,
+      "topic": "Стародавня історія України",
+      "question": "Який народ, за свідченнями античних авторів, проживав на території Північного Причорномор'я в ІІІ ст. до н.е. – ІІІ ст. н.е.?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "Сармати", "image": null},
+        {"id": "b", "text": "Скіфи", "image": null},
+        {"id": "c", "text": "Кіммерійці", "image": null},
+        {"id": "d", "text": "Готи", "image": null}
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "id": 10,
+      "topic": "Стародавня історія України",
+      "question": "Який період історії України характеризується переходом від привласнюючого до відтворюючого господарства?",
+      "image": null,
+      "type": "multiple_choice",
+      "options": [
+        {"id": "a", "text": "Палеоліт", "image": null},
+        {"id": "b", "text": "Мезоліт", "image": null},
+        {"id": "c", "text": "Неоліт", "image": null},
+        {"id": "d", "text": "Енеоліт", "image": null}
+      ],
+      "correct_answer": "c"
+    }
+  ]
+}
